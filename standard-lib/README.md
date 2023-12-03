@@ -1,0 +1,35 @@
+
+# 常用包
+1. context
+2. encoding/json
+3. encoding/base64
+4. encoding/hex
+5. errors
+6. flag
+7. fmt
+8. io
+9. io/util
+10. log
+11. math
+12. net
+13. net/http
+14. net/url
+15. reflect
+16. regexp
+17. sort
+18. strconv
+19. strings
+20. sync
+21. time
+
+# 案例演示
+1. encoding/json
+2. encoding/base64
+3. encoding/hex
+4. errors
+5. fmt
+6. log
+7. math
+8. reflect
+9. regexp
+10. sort
